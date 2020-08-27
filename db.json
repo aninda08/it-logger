@@ -1,42 +1,35 @@
 {
-    "logs" : [
-        {
-            "id": 1,
-            "message": "Change hard drive on workstation 001",
-            "attention": false,
-            "date": "23-08-2020",
-            "tech": "Aninda"
-        },
-        {
-            "id": 2,
-            "message": "Workstation 007 not posting",
-            "attention": true,
-            "date": "23-08-2020",
-            "tech": "Sumit"
-        },
-        {
-            "id": 3,
-            "message": "Changed memory on workstation 005",
-            "attention": false,
-            "date": "22-08-2020",
-            "tech": "Mayukh"
-        }
-    ],
-    "techs" : [
-        {
-            "id":1,
-            "firstName": "Aninda",
-            "lastName": "Chakraborty"
-        },
-        {
-            "id":2,
-            "firstName": "Sumit",
-            "lastName": "Saha"
-        },
-        {
-            "id":3,
-            "firstName": "Mayukh",
-            "lastName": "Nath"
-        }
-    ]
+  "logs": [
+    {
+      "id": 1,
+      "message": "Completed React course",
+      "attention": false,
+      "tech": "Aninda",
+      "date": "2020-08-25T19:42:23.276Z"
+    },
+    {
+      "message": "test 1",
+      "attention": true,
+      "tech": "Sumit",
+      "date": "2020-08-25T19:58:25.872Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Aninda",
+      "lastName": "Chakraborty"
+    },
+    {
+      "id": 2,
+      "firstName": "Sumit",
+      "lastName": "Saha"
+    },
+    {
+      "id": 3,
+      "firstName": "Mayukh",
+      "lastName": "Nath"
+    }
+  ]
 }
